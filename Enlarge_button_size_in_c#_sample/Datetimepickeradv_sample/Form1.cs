@@ -18,9 +18,7 @@ namespace Datetimepickeradv_sample
             InitializeComponent();
 
             DateTimePickerAdv dateTimePickerAdv = new DateTimePickerAdv();
-            //dateTimePickerAdv.Height = 100;
             dateTimePickerAdv.Location = new Point(100, 100);
-            //dateTimePickerAdv.Width = 150;
             dateTimePickerAdv.ShowUpDown = true;
             dateTimePickerAdv.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Regular, GraphicsUnit.Point, ((byte)(0)));
             this.Controls.Add(dateTimePickerAdv);

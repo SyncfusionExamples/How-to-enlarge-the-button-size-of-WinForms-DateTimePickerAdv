@@ -7,5 +7,7 @@ The WinForms DateTimePickerAdv control does not have direct support to enlarge t
 
     //Using Size property.
     dateTimePickerAdv.Size = new Size(276, 50);
+    
+![Enlarge Button Size](https://user-images.githubusercontent.com/93652178/204491658-39d3d94d-e0ba-441d-b8e1-d2ecc9ec8134.png)
 
 For more details please refer [How to enlarge button size in DateTimePickerAdv](https://www.syncfusion.com/kb/12020how-to-enlarge-the-button-size-of-wf-datetimepickeradv).
